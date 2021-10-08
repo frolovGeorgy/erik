@@ -1,3 +1,1 @@
-Hello Jora!!!
-
-Здесь был Шакал
+ ne jackal
